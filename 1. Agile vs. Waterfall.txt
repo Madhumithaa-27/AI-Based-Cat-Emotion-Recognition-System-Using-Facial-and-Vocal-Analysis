@@ -1,0 +1,89 @@
+**1. Agile vs. Waterfall**
+
+- **Agile** is an approach to software development where work is done in small, quick cycles, and software is delivered incrementally. It allows you to adapt to changes and deliver features frequently.
+    - Deployment cycle is in **weeks/days**
+    - Deployment is based on **features or requirements** (small changes delivered often)
+    - **Quick response** to changes
+
+- **Waterfall** is a traditional method where development is done in well-defined stages, usually taking months or quarters. Changes are slow and all features are released together.
+    - Deployment cycle is in **months/quarters**
+    - Deployment is **all or none** (large release at the end)
+    - **Slow response** to changes
+
+***
+
+**2. What is Agile?**
+- *Agile is a time-boxed, iterative approach*—work happens in short cycles (“sprints”), and software is built bit by bit.
+- You keep improving and delivering small parts of the software from the start, instead of waiting for everything to finish.
+
+***
+
+**3. Values of Agile (from the Agile Manifesto):**
+- **Individuals and interactions** over processes and tools
+- **Working software** over heavy documentation
+- **Customer collaboration** over strict contracts
+- **Responding to change** over sticking exactly to a plan
+
+*Translation:* Agile values working closely together, building actual software that works, talking to the customer, and being flexible with change.
+
+***
+
+**4. Principles of Agile:**
+- Deliver valuable software to customers early and continuously.
+- Continuously deliver working software (every few weeks or months, not just at the end).
+- Developers and business people work as a team daily.
+- The *actual software* is the best measure of progress (not documentation, plans, or charts).
+
+***
+
+**5. Flavors of Agile:**
+- **Scrum:** Used for development projects. Organizes work into “sprints” (short cycles, often 2–4 weeks long).
+- **Kanban:** Often used for ongoing work (“flow”). Work items move through different stages on a board.
+
+***
+flavours of agile:
+Great! Here’s a *simple breakdown of each “flavor” of Agile from your screenshot* to help you understand what they mean and where they’re used:
+
+***
+
+*1. Scrum:*  
+- Used in software development projects.
+- Work is divided into "sprints" (short cycles, usually 2–4 weeks).
+- Each team has roles: Product Owner, Scrum Master, and Developers.
+- There are regular meetings ("stand-ups") to check progress.
+- Focus: Deliver working software after every sprint.
+
+*Example:*  
+Imagine your team is building a new app. You plan features to build in the next 2 weeks (a sprint), work on them, and show results at the end. Then you repeat for the next set of features.
+
+***
+
+*2. Kanban:*  
+- Used in maintenance or ongoing support projects.
+- Visualizes work items on a board with columns (e.g., "To do," "Doing," "Done").
+- Focuses on continuous delivery, NOT set sprints.
+- Flexible—work flows freely as team members become available.
+
+*Example:*  
+Support team tracks bugs: Ticket starts in "To do", moves to "Doing" when someone picks it up, and finally "Done" once fixed.
+
+***
+
+*3. Extreme Programming (XP):*  
+- Used to improve software quality.
+- Practices include refactoring (improving code), pair programming (two people code together), and TDD/BDD/CI (testing and automation).
+- Focuses on frequent small releases and close collaboration.
+
+*Example:*  
+Developers write automated tests before coding a feature (Test-Driven Development, TDD). Two developers work together at one computer (pair programming).
+
+***
+
+*4. Lean:*  
+- Aim: Remove waste from the workflow.
+- Improve efficiency by focusing only on what adds value.
+- Continuously improve processes and reduce unnecessary steps.
+
+*Example:*  
+Imagine a team finds daily meetings aren’t useful, so they reduce them or shorten them to save time and only keep valuable discussions.
+
